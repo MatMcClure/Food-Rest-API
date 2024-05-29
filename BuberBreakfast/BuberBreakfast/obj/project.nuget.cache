@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "khsyozuUu3r/mjtC2j2gn5pc5GnWYs3jkYff6Fgj0gb/lmUFiCpwpayqmXF5ITmMIf6akEeP5eYDeMgiAg72yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mat\\foodAPI\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
